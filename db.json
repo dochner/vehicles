@@ -1,0 +1,31 @@
+[
+    {
+      "id": 43,
+      "vehicle_id": 6,
+      "vehicle_name": "Veículo Teste PRD1",
+      "year_model": 2022,
+      "year_fabrication": 2021,
+      "model_id": 5,
+      "model_name": "MODELO TESTE PRD1",
+      "brand_id": 117,
+      "brand_name": "MARCA TESTE PRD",
+      "version_id": 3,
+      "version_name": "VERSÃO TESTE PRD",
+      "provider_id": 51,
+      "provider_cnpj": "23456789000103",
+      "provider_name": "Teste",
+      "provider_observation": "Muito Legal, tste",
+      "initial_validation_date": "2001-01-20 22:00:00",
+      "final_validation_date": "2031-12-20 22:00:00",
+      "provider_vehicle_observation": "Muito legal, teste",
+      "provider_vehicle_status": 1,
+      "contracts": "[{\"id_contract\":\"1\",\"contract_name\":\"12 Meses\",\"contract_months\":\"12\",\"km\":\"1000\",\"value\":\"1000.00\"},{\"id_contract\":\"2\",\"contract_name\":\"15 Meses\",\"contract_months\":\"15\",\"km\":\"1000\",\"value\":\"1000.00\"},{\"id_contract\":\"3\",\"contract_name\":\"18 Meses\",\"contract_months\":\"18\",\"km\":\"1000\",\"value\":\"1000.00\"},{\"id_contract\":\"4\",\"contract_name\":\"24 Meses\",\"contract_months\":\"24\",\"km\":\"1000\",\"value\":\"1000.00\"},{\"id_contract\":\"5\",\"contract_name\":\"36 Meses\",\"contract_months\":\"36\",\"km\":\"1000\",\"value\":\"1000.00\"},{\"id_contract\":\"6\",\"contract_name\":\"48 Meses\",\"contract_months\":\"48\",\"km\":\"1000\",\"value\":\"1000.00\"}]",
+      "category_id": 3,
+      "category_name": "Intermediário",
+      "promotion": 1,
+      "promotion_text": "asdasdad",
+      "delivery_date": 10,
+      "url": "https://www.assyne.com.br/carro/movida/marca-teste-prd/modelo-teste-prd1/versao-teste-prd/43",
+      "delivery_date_fast": true
+    }
+]
